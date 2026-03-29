@@ -1,0 +1,1 @@
+# Content of gmsh41_to_abaqus_inp.py here
